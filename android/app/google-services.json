@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1054643759551",
+    "project_id": "social-media-app-de5bc",
+    "storage_bucket": "social-media-app-de5bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054643759551:android:7247bf1946e372b282d90a",
+        "android_client_info": {
+          "package_name": "com.aacfahim.social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054643759551-4gfnb7t5i3h5ic1abna86gbch2rgg1h5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aacfahim.social_media_app",
+            "certificate_hash": "f00b96f0be20b824780c66192a720b49005e102e"
+          }
+        },
+        {
+          "client_id": "1054643759551-q0t354dv8fb223ki32cnebv0i3kdi2tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2TWxWqUTjwfE2XHlEAo3Q-EMCeK7r-xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054643759551-q0t354dv8fb223ki32cnebv0i3kdi2tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
